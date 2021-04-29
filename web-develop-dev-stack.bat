@@ -32,16 +32,7 @@ choco install wsl2
 choco install wsl-ubuntu-2004 --params "/InstallRoot:true"
 echo;
 
-echo * Installing Essential Apps...
-choco install notepadplusplus
-choco install 7zip
-choco install paint.net
-choco install figma
-choco install teamviewer
-echo;
-
 echo * Finished!
 echo * Manually install remaining apps:
 echo * Visual Studio 20xx Professional
-echo * Adobe Illustrator
 pause
