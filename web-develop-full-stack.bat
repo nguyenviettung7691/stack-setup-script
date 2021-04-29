@@ -14,11 +14,15 @@ powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((New-Object System.
 choco feature enable -n=allowGlobalConfirmation
 echo;
 
+set /p choice=Do you want to install Base Stack (Browsers, Social App, Essential Apps)? [y/n]
+IF %choice% == y goto Base
+IF %choice% == n goto Dev
+
+:Base
 echo * Installing Browsers...
 choco install googlechrome.dev
 choco install opera-developer
 choco install microsoft-edge
-
 echo;
 
 echo * Installing Social Apps...
@@ -28,6 +32,22 @@ choco install microsoft-teams
 choco install zoom
 echo;
 
+echo * Installing Essential Apps...
+choco install notepadplusplus
+choco install 7zip
+choco install paint.net
+choco install figma
+choco install teamviewer
+choco install k-litecodecpackfull
+choco install driverbooster
+echo;
+
+:Dev
+set /p choice=Do you want to install Dev Stack? [y/n]
+IF %choice% == y goto DevInstall
+IF %choice% == n goto Done
+
+:DevInstall
 echo * Installing Dev Apps...
 choco install git --params "/GitAndUnixToolsOnPath /NoAutoCrlf /WindowsTerminal"
 choco install git-fork
@@ -46,16 +66,7 @@ choco install wsl2
 choco install wsl-ubuntu-2004 --params "/InstallRoot:true"
 echo;
 
-echo * Installing Essential Apps...
-choco install notepadplusplus
-choco install 7zip
-choco install paint.net
-choco install figma
-choco install teamviewer
-choco install k-litecodecpackfull
-choco install driverbooster
-echo;
-
+:Done
 echo * Finished!
 echo * Manually install remaining apps:
 echo * Visual Studio 20xx Professional
