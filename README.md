@@ -39,8 +39,7 @@ Only Web Develop apps & tools.
 - WSL2 + Ubuntu 20.04 instance:
 <img src="https://community.chocolatey.org/content/packageimages/wsl2.2.0.0.20210122.png" width="30"><img src="https://community.chocolatey.org/content/packageimages/wsl-ubuntu-2004.20.4.0.20200912.png" width="30">
 
-- Manual install these:
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png" width="30">
+- Manual install these: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png" width="30">
 
 ### web-develop-full-stack
 base-stack + web-develop-dev-stack
