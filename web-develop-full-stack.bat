@@ -57,6 +57,7 @@ choco install nodejs
 choco install docker-desktop
 choco install postman
 choco install dbeaver
+choco install microsoft-windows-terminal
 choco install putty
 choco install fiddler
 echo;
