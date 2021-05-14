@@ -48,21 +48,33 @@ IF %choice% == y goto DevInstall
 IF %choice% == n goto Done
 
 :DevInstall
-echo * Installing Dev Apps...
-choco install git --params "/GitAndUnixToolsOnPath /NoAutoCrlf /WindowsTerminal"
-choco install git-fork
-choco install vscode
+echo * Installing Dev Env
 choco install python
 choco install nodejs
 choco install docker-desktop
-choco install postman
-choco install dbeaver
+echo;
+
+echo * Installing Source control...
+choco install git --params "/GitAndUnixToolsOnPath /NoAutoCrlf /WindowsTerminal"
+choco install git-fork
+echo;
+
+echo * Installing Terminal tools...
 choco install microsoft-windows-terminal
 choco install putty
+echo;
+
+echo * Installing Dev Tools
+choco install vscode
+choco install dbeaver
+echo;
+
+echo * Installing Debug tools...
+choco install postman
 choco install fiddler
 echo;
 
-echo * Installing WSL2...
+echo * Installing WSL2 + Ubuntu instance...
 choco install wsl2
 choco install wsl-ubuntu-2004 --params "/InstallRoot:true"
 echo;
