@@ -1,6 +1,12 @@
 # README
 This repo contains some useful batch script files that will install all application on Windows with just one run. There are many batch script files tailored based on specific needs.
 
+## Dependency
+These script are based on [Chocolatey](https://chocolatey.org/)
+
+## How to use
+Just run the file for the stack you need, and ensure you're running as Administator.
+
 ## base-stack
 Only Social & Essential apps.
 
