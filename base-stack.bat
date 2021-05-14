@@ -40,4 +40,5 @@ echo;
 echo * Finished!
 echo * Manually install remaining apps:
 echo * EVKey
+echo * Adobe Illustrator
 pause
