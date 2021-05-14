@@ -4,7 +4,7 @@ This repo contains some useful batch script files that will install all applicat
 ## base-stack
 Only Social & Essential apps.
 
-![Google Chrome Dev](https://community.chocolatey.org/content/packageimages/GoogleChrome.Dev.27.0.1453.12.png | width=30)
+![Google Chrome Dev](https://community.chocolatey.org/content/packageimages/GoogleChrome.Dev.27.0.1453.12.png|width=30)
 
 ## web-develop-dev-stack
 Only Web Develop apps & tools.
