@@ -7,7 +7,8 @@ These script are based on [Chocolatey](https://chocolatey.org/)
 ## How to use
 Just run the file for the stack you need, and ensure you're running as Administator.
 
-## base-stack
+## Stack explain
+### base-stack
 Only Social & Essential apps.
 
 Browser: <img src="https://community.chocolatey.org/content/packageimages/GoogleChrome.Dev.27.0.1453.12.png" width="30"><img src="https://community.chocolatey.org/content/packageimages/opera-developer.77.0.4051.0.png" width="30"><img src="https://community.chocolatey.org/content/packageimages/microsoft-edge.90.0.818.51.png" width="30">
@@ -18,7 +19,7 @@ Other essential: <img src="https://community.chocolatey.org/content/packageimage
 
 Manually install these: <img src="https://raw.githubusercontent.com/lamquangminh/EVKey/master/docs/EVKeyLogo_240.PNG" width="30"><img src="https://www.flstudiocrack.org/wp-content/uploads/2020/04/ai.png" width="30">
 
-## web-develop-dev-stack
+### web-develop-dev-stack
 Only Web Develop apps & tools.
 
 Develop Enviroment:<img src="https://community.chocolatey.org/content/packageimages/python.3.9.5.svg" width="30"><img src="https://community.chocolatey.org/content/packageimages/nodejs.16.1.0.png" width="30"><img src="https://community.chocolatey.org/content/packageimages/docker-desktop.3.3.3.png" width="30">
@@ -41,5 +42,5 @@ WSL2 + Ubuntu 20.04 instance:
 Manual install these:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png" width="30">
 
-## web-develop-full-stack
+### web-develop-full-stack
 base-stack + web-develop-dev-stack
