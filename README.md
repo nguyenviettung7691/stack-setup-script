@@ -15,5 +15,25 @@ Manually install these: <img src="https://raw.githubusercontent.com/lamquangminh
 ## web-develop-dev-stack
 Only Web Develop apps & tools.
 
+Develop Enviroment:<img src="https://community.chocolatey.org/content/packageimages/python.3.9.5.svg" width="30"><img src="https://community.chocolatey.org/content/packageimages/nodejs.16.1.0.png" width="30"><img src="https://community.chocolatey.org/content/packageimages/docker-desktop.3.3.3.png" width="30">
+
+Source control: 
+<img src="https://community.chocolatey.org/content/packageimages/git.2.31.1.svg" width="30"><img src="https://community.chocolatey.org/content/packageimages/git-fork.1.62.1.png" width="30">
+
+Terminal tools:
+<img src="https://community.chocolatey.org/content/packageimages/microsoft-windows-terminal.1.7.1091.0.png" width="30"><img src="https://community.chocolatey.org/content/packageimages/putty.0.75.png" width="30">
+
+Develop tools:
+<img src="https://community.chocolatey.org/content/packageimages/vscode.1.56.2.png" width="30"><img src="https://community.chocolatey.org/content/packageimages/dbeaver.21.0.4.png" width="30">
+
+Debug tools:
+<img src="https://community.chocolatey.org/content/packageimages/postman.8.2.3.png" width="30"><img src="https://community.chocolatey.org/content/packageimages/fiddler.5.0.20204.45441.png" width="30">
+
+WSL2 + Ubuntu 20.04 instance:
+<img src="https://community.chocolatey.org/content/packageimages/wsl2.2.0.0.20210122.png" width="30"><img src="https://community.chocolatey.org/content/packageimages/wsl-ubuntu-2004.20.4.0.20200912.png" width="30">
+
+Manual install these:
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png" width="30">
+
 ## web-develop-full-stack
 base-stack + web-develop-dev-stack
