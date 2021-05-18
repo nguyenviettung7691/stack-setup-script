@@ -39,12 +39,11 @@ Only Web Develop apps & tools.
 | Container | <img src="https://community.chocolatey.org/content/packageimages/docker-desktop.3.3.3.png" width="20"> [Docker Desktop](https://community.chocolatey.org/packages/docker-desktop) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/docker-desktop) |
 | Version Control | <img src="https://community.chocolatey.org/content/packageimages/git.2.31.1.svg" width="20"> [Git](https://community.chocolatey.org/packages/git) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/git) |
 | Version Control | <img src="https://community.chocolatey.org/content/packageimages/git-fork.1.62.1.png" width="20"> [Git Fork](https://community.chocolatey.org/packages/git-fork) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/git-fork) |
+| Terminal | <img src="https://community.chocolatey.org/content/packageimages/microsoft-windows-terminal.1.7.1091.0.png" width="20"> [Microsoft Windows Terminal](https://community.chocolatey.org/packages/microsoft-windows-terminal/1.7.1091.0) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/microsoft-windows-terminal) |
+| SSH | <img src="https://community.chocolatey.org/content/packageimages/putty.0.75.png" width="20"> [Putty](https://community.chocolatey.org/packages/putty) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/putty) |
+| IDE | <img src="https://community.chocolatey.org/content/packageimages/vscode.1.56.2.png" width="20"> [Visual Studio Code](https://community.chocolatey.org/packages/vscode) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/vscode) |
+| Database | <img src="https://community.chocolatey.org/content/packageimages/dbeaver.21.0.4.png" width="20"> [DBeaver](https://community.chocolatey.org/packages/dbeaver) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/dbeaver) |
 
-- Terminal tools:
-<img src="https://community.chocolatey.org/content/packageimages/microsoft-windows-terminal.1.7.1091.0.png" width="30"><img src="https://community.chocolatey.org/content/packageimages/putty.0.75.png" width="30">
-
-- Develop tools:
-<img src="https://community.chocolatey.org/content/packageimages/vscode.1.56.2.png" width="30"><img src="https://community.chocolatey.org/content/packageimages/dbeaver.21.0.4.png" width="30">
 
 - Debug tools:
 <img src="https://community.chocolatey.org/content/packageimages/postman.8.2.3.png" width="30"><img src="https://community.chocolatey.org/content/packageimages/fiddler.5.0.20204.45441.png" width="30">
