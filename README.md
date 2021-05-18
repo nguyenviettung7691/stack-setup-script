@@ -2,22 +2,24 @@
 This repo contains some useful batch script files that will install all application on Windows with just one run. There are many batch script files tailored based on specific needs.
 
 ## Dependency
-These script are based on [Chocolatey](https://chocolatey.org/)
+These script are based on [Chocolatey](https://chocolatey.org/). Please install it first.
 
 ## How to use
 Just run the file for the stack you need, and ensure you're running as Administator.
 
 ## Stack explain
 ### base-stack
-Only Social & Essential apps.
+Only Essential apps.
 
 | Type        | Package           | Version  |
-| ------------- |:-------------:| -----:|
+| ------------- |-------------| -----|
 | Browser | <img src="https://community.chocolatey.org/content/packageimages/GoogleChrome.Dev.27.0.1453.12.png" width="20"> [Google Chrome Dev](https://community.chocolatey.org/packages/GoogleChrome.Dev) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/GoogleChrome.Dev) |
 | Browser | <img src="https://community.chocolatey.org/content/packageimages/opera-developer.77.0.4051.0.png" width="20"> [Opera Developer](https://community.chocolatey.org/packages/opera-developer) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/opera-developer) |
 | Browser | <img src="https://community.chocolatey.org/content/packageimages/microsoft-edge.90.0.818.51.png" width="20"> [Microsoft Edge](https://community.chocolatey.org/packages/microsoft-edge) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/microsoft-edge) |
-
-- Social: <img src="https://community.chocolatey.org/content/packageimages/skype.8.71.0.49.png" width="30"><img src="https://community.chocolatey.org/content/packageimages/slack.4.16.1.png" width="30"><img src="https://community.chocolatey.org/content/packageimages/microsoft-teams.1.4.00.8872.png" width="30"><img src="https://community.chocolatey.org/content/packageimages/zoom.5.6.5.823.png" width="30">
+| Social | <img src="https://community.chocolatey.org/content/packageimages/skype.8.71.0.49.png" width="20"> [Skype](https://community.chocolatey.org/packages/skype) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/skype) |
+| Social | <img src="https://community.chocolatey.org/content/packageimages/slack.4.16.1.png" width="20"> [Slack](https://community.chocolatey.org/packages/slack) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/slack) |
+| Social | <img src="https://community.chocolatey.org/content/packageimages/microsoft-teams.1.4.00.8872.png" width="20"> [Microsoft Teams](https://community.chocolatey.org/packages/microsoft-teams) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/microsoft-teams) |
+| Social | <img src="https://community.chocolatey.org/content/packageimages/zoom.5.6.5.823.png" width="20"> [Zoom](https://community.chocolatey.org/packages/zoom) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/zoom) |
 
 - Other essential: <img src="https://community.chocolatey.org/content/packageimages/notepadplusplus.7.9.5.png" width="30"><img src="https://community.chocolatey.org/content/packageimages/7zip.19.0.svg" width="30"><img src="https://community.chocolatey.org/content/packageimages/paint.net.4.2.16.png" width="30"><img src="https://community.chocolatey.org/content/packageimages/teamviewer9.9.0.38846.png" width="30"><img src="https://community.chocolatey.org/content/packageimages/k-litecodecpackfull.16.1.2.png" width="30"><img src="https://community.chocolatey.org/content/packageimages/driverbooster.8.4.0.432.png" width="30">
 
