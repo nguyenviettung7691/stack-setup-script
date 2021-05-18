@@ -32,10 +32,13 @@ Only Essential apps.
 ### web-develop-dev-stack
 Only Web Develop apps & tools.
 
-- Develop Enviroment:<img src="https://community.chocolatey.org/content/packageimages/python.3.9.5.svg" width="30"><img src="https://community.chocolatey.org/content/packageimages/nodejs.16.1.0.png" width="30"><img src="https://community.chocolatey.org/content/packageimages/docker-desktop.3.3.3.png" width="30">
-
-- Source control: 
-<img src="https://community.chocolatey.org/content/packageimages/git.2.31.1.svg" width="30"><img src="https://community.chocolatey.org/content/packageimages/git-fork.1.62.1.png" width="30">
+| Type        | Package           | Version  |
+| ------------- |-------------| -----|
+| Language | <img src="https://community.chocolatey.org/content/packageimages/python.3.9.5.svg" width="20"> [Python](https://community.chocolatey.org/packages/python/3.9.5) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/python) |
+| Language | <img src="https://community.chocolatey.org/content/packageimages/nodejs.16.1.0.png" width="20"> [NodeJS](https://community.chocolatey.org/packages/nodejs) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/nodejs) |
+| Container | <img src="https://community.chocolatey.org/content/packageimages/docker-desktop.3.3.3.png" width="20"> [Docker Desktop](https://community.chocolatey.org/packages/docker-desktop) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/docker-desktop) |
+| Version Control | <img src="https://community.chocolatey.org/content/packageimages/git.2.31.1.svg" width="20"> [Git](https://community.chocolatey.org/packages/git) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/git) |
+| Version Control | <img src="https://community.chocolatey.org/content/packageimages/git-fork.1.62.1.png" width="20"> [Git Fork](https://community.chocolatey.org/packages/git-fork) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/git-fork) |
 
 - Terminal tools:
 <img src="https://community.chocolatey.org/content/packageimages/microsoft-windows-terminal.1.7.1091.0.png" width="30"><img src="https://community.chocolatey.org/content/packageimages/putty.0.75.png" width="30">
