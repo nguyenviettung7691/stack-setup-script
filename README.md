@@ -43,15 +43,12 @@ Only Web Develop apps & tools.
 | SSH | <img src="https://community.chocolatey.org/content/packageimages/putty.0.75.png" width="20"> [Putty](https://community.chocolatey.org/packages/putty) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/putty) |
 | IDE | <img src="https://community.chocolatey.org/content/packageimages/vscode.1.56.2.png" width="20"> [Visual Studio Code](https://community.chocolatey.org/packages/vscode) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/vscode) |
 | Database | <img src="https://community.chocolatey.org/content/packageimages/dbeaver.21.0.4.png" width="20"> [DBeaver](https://community.chocolatey.org/packages/dbeaver) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/dbeaver) |
+| API | <img src="https://community.chocolatey.org/content/packageimages/postman.8.2.3.png" width="20"> [Postman](https://community.chocolatey.org/packages/postman) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/postman) |
+| Web Debugger | <img src="https://community.chocolatey.org/content/packageimages/fiddler.5.0.20204.45441.png" width="20"> [Fiddler](https://community.chocolatey.org/packages/fiddler) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/fiddler) |
+| VM | <img src="https://community.chocolatey.org/content/packageimages/wsl2.2.0.0.20210122.png" width="20"> [WSL2](https://community.chocolatey.org/packages/wsl2) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/wsl2) |
+| VM | <img src="https://community.chocolatey.org/content/packageimages/wsl-ubuntu-2004.20.4.0.20200912.png" width="20"> [WSL Ubuntu 20.04](wsl-ubuntu-2004) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/wsl-ubuntu-2004) |
 
-
-- Debug tools:
-<img src="https://community.chocolatey.org/content/packageimages/postman.8.2.3.png" width="30"><img src="https://community.chocolatey.org/content/packageimages/fiddler.5.0.20204.45441.png" width="30">
-
-- WSL2 + Ubuntu 20.04 instance:
-<img src="https://community.chocolatey.org/content/packageimages/wsl2.2.0.0.20210122.png" width="30"><img src="https://community.chocolatey.org/content/packageimages/wsl-ubuntu-2004.20.4.0.20200912.png" width="30">
-
-- Manual install these: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png" width="30">
+*Manual install these:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png" width="30">
 
 ### web-develop-full-stack
 base-stack + web-develop-dev-stack
