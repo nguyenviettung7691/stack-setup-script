@@ -54,5 +54,14 @@ Only Web Develop apps & tools.
 
 *Manual install these:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png" width="30">
 
+### recreation-stack
+Only Recreation apps.
+
+| Type        | Package           | Version  |
+| ------------- |-------------| -----|
+| Music | <img src="https://community.chocolatey.org/content/packageimages/spotify.1.1.59.712.png" width="20"> [Spotify](https://community.chocolatey.org/packages/spotify) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/spotify) |
+
+*Manual install these:*
+
 ### web-develop-full-stack
 base-stack + web-develop-dev-stack
