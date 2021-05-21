@@ -4,6 +4,7 @@ call pre-script.bat
 
 echo * Installing Recreation apps
 choco install spotify
+choco install goggalaxy
 echo;
 
 echo * Finished!
