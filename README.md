@@ -63,6 +63,7 @@ Only install Recreation apps.
 | Type        | Package           | Version  |
 | ------------- |-------------| -----|
 | Music | <img src="https://community.chocolatey.org/content/packageimages/spotify.1.1.59.712.png" width="20"> [Spotify](https://community.chocolatey.org/packages/spotify) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/spotify) |
+| Game | <img src="https://community.chocolatey.org/content/packageimages/goggalaxy.2.0.37.384.png" width="20"> [GOG Galaxy](https://community.chocolatey.org/packages/goggalaxy) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/goggalaxy) |
 
 *Manual install these:*
 
