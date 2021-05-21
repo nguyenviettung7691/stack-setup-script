@@ -32,6 +32,7 @@ echo;
 echo * Installing Essential Apps...
 choco install paint.net
 choco install inkscape
+choco install figma
 choco install notepadplusplus
 choco install 7zip
 choco install teamviewer
