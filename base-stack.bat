@@ -18,6 +18,7 @@ echo * Installing Browsers...
 choco install googlechrome.dev
 choco install opera-developer
 choco install microsoft-edge
+choco install firefox
 
 echo;
 
