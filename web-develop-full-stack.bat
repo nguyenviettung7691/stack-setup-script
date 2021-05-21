@@ -34,10 +34,11 @@ choco install zoom
 echo;
 
 echo * Installing Essential Apps...
+choco install paint.net
+choco install inkscape
+choco install figma
 choco install notepadplusplus
 choco install 7zip
-choco install paint.net
-choco install figma
 choco install teamviewer
 choco install k-litecodecpackfull
 choco install driverbooster
@@ -84,6 +85,5 @@ echo;
 echo * Finished!
 echo * Manually install remaining apps:
 echo * Visual Studio 20xx Professional
-echo * Adobe Illustrator
 echo * EVKey
 pause
