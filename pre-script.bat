@@ -1,5 +1,9 @@
 @echo off
 
+echo * Ensure that you are running this file as Administrator
+echo;
+pause
+
 echo * Disabling proxies...
 set HTTP_PROXY=
 set HTTPS_PROXY=
