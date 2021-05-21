@@ -42,6 +42,7 @@ choco install 7zip
 choco install teamviewer
 choco install k-litecodecpackfull
 choco install driverbooster
+choco install greenshot
 echo;
 
 :Dev
