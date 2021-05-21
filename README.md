@@ -8,8 +8,14 @@ These script are based on [Chocolatey](https://chocolatey.org/). Please install 
 Just run the file for the stack you need, and ensure you're running as Administator.
 
 ## Stack explain
-### base-stack
-Only Essential apps.
+
+### pre-script.bat
+Commonly used script before every stack. Setup dependencies and prerequisites:
+* Chocolatey
+* Disable proxy
+
+### base-stack.bat
+Only install Essential apps.
 
 | Type        | Package           | Version  |
 | ------------- |-------------| -----|
@@ -33,8 +39,8 @@ Only Essential apps.
 
 *Manually install these:* <img src="https://raw.githubusercontent.com/lamquangminh/EVKey/master/docs/EVKeyLogo_240.PNG" width="30">
 
-### web-develop-dev-stack
-Only Web Develop apps & tools.
+### web-develop-dev-stack.bat
+Only install Web Develop apps & tools.
 
 | Type        | Package           | Version  |
 | ------------- |-------------| -----|
@@ -54,8 +60,8 @@ Only Web Develop apps & tools.
 
 *Manual install these:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png" width="30">
 
-### recreation-stack
-Only Recreation apps.
+### recreation-stack.bat
+Only install Recreation apps.
 
 | Type        | Package           | Version  |
 | ------------- |-------------| -----|
@@ -63,5 +69,6 @@ Only Recreation apps.
 
 *Manual install these:*
 
-### web-develop-full-stack
-base-stack + web-develop-dev-stack
+### web-develop-full-stack.bat
+* base-stack.bat
+* web-develop-dev-stack.bat
