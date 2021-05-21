@@ -30,9 +30,10 @@ choco install zoom
 echo;
 
 echo * Installing Essential Apps...
+choco install paint.net
+choco install inkscape
 choco install notepadplusplus
 choco install 7zip
-choco install paint.net
 choco install teamviewer
 choco install k-litecodecpackfull
 choco install driverbooster
@@ -41,5 +42,4 @@ echo;
 echo * Finished!
 echo * Manually install remaining apps:
 echo * EVKey
-echo * Adobe Illustrator
 pause
