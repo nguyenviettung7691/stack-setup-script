@@ -24,11 +24,13 @@ Only Essential apps.
 | Text Editor | <img src="https://community.chocolatey.org/content/packageimages/notepadplusplus.7.9.5.png" width="20"> [Notepad++](https://community.chocolatey.org/packages/notepadplusplus) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/notepadplusplus) |
 | Archiver | <img src="https://community.chocolatey.org/content/packageimages/7zip.19.0.svg" width="20"> [7zip](https://community.chocolatey.org/packages/7zip/19.0) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/7zip) |
 | Graphics Editor | <img src="https://community.chocolatey.org/content/packageimages/paint.net.4.2.16.png" width="20"> [Paint.NET](https://community.chocolatey.org/packages/paint.net) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/paint.net) |
+| Vector Graphics Editor | <img src="https://community.chocolatey.org/content/packageimages/InkScape.1.0.2.svg" width="20"> [InkScape](https://community.chocolatey.org/packages/inkscape) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/InkScape) |
+| UI Design | <img src="https://community.chocolatey.org/content/packageimages/figma.93.4.0.png" width="20"> [Figma](https://community.chocolatey.org/packages/figma) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/figma) |
 | Remote Control | <img src="https://community.chocolatey.org/content/packageimages/teamviewer9.9.0.38846.png" width="20"> [TeamViewer](https://community.chocolatey.org/packages/teamviewer9) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/teamviewer9) |
 | Video Player | <img src="https://community.chocolatey.org/content/packageimages/k-litecodecpackfull.16.1.2.png" width="20"> [K-Lite Codec Pack Full](https://community.chocolatey.org/packages/k-litecodecpackfull) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/k-litecodecpackfull) |
 | Driver Download | <img src="https://community.chocolatey.org/content/packageimages/driverbooster.8.4.0.432.png" width="20"> [Driver Booster](https://community.chocolatey.org/packages/driverbooster) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/driverbooster) |
 
-*Manually install these:* <img src="https://raw.githubusercontent.com/lamquangminh/EVKey/master/docs/EVKeyLogo_240.PNG" width="30"><img src="https://www.flstudiocrack.org/wp-content/uploads/2020/04/ai.png" width="30">
+*Manually install these:* <img src="https://raw.githubusercontent.com/lamquangminh/EVKey/master/docs/EVKeyLogo_240.PNG" width="30">
 
 ### web-develop-dev-stack
 Only Web Develop apps & tools.
