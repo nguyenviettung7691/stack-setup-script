@@ -1,17 +1,14 @@
 # README
 This repo contains some useful batch script files that will install all application on Windows with just one run. There are many batch script files tailored based on specific needs.
 
-## Dependency
-These script are based on [Chocolatey](https://chocolatey.org/). Please install it first.
-
 ## How to use
-Just run the file for the stack you need, and ensure you're running as Administator.
+Just run the batch script file for the stack you need, and ensure you're running as Administator.
 
 ## Stack explain
 
 ### pre-script.bat
-Commonly used script before every stack. Setup dependencies and prerequisites:
-* Chocolatey
+Common used script before every stack, so should NOT be run manually, since it is included in other stacks. Setup dependencies and prerequisites:
+* [Chocolatey](https://chocolatey.org/)
 * Disable proxy
 
 ### base-stack.bat
