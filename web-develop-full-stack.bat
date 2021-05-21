@@ -21,7 +21,4 @@ call web-develop-dev-stack.bat
 
 :Done
 echo * Finished!
-echo * Manually install remaining apps:
-echo * Visual Studio 20xx Professional
-echo * EVKey
 pause
