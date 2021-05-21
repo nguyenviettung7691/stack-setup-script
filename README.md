@@ -67,5 +67,6 @@ Only install Recreation apps.
 *Manual install these:*
 
 ### web-develop-full-stack.bat
+Install these stacks:
 * base-stack.bat
 * web-develop-dev-stack.bat
