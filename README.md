@@ -17,7 +17,7 @@ Only install Essential apps.
 | Type        | Package           | Version  |
 | ------------- |-------------| -----|
 | Browser | <img src="https://community.chocolatey.org/content/packageimages/GoogleChrome.Dev.27.0.1453.12.png" width="20"> [Google Chrome Dev](https://community.chocolatey.org/packages/GoogleChrome.Dev) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/GoogleChrome.Dev) |
-| Browser | <img src="https://community.chocolatey.org/content/packageimages/opera-developer.77.0.4051.0.png" width="20"> [Opera Developer](https://community.chocolatey.org/packages/opera-developer) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/opera-developer) |
+| Browser | <img src="https://community.chocolatey.org/content/packageimages/opera-developer.78.0.4058.0.png" width="20"> [Opera Developer](https://community.chocolatey.org/packages/opera-developer) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/opera-developer) |
 | Browser | <img src="https://community.chocolatey.org/content/packageimages/microsoft-edge.90.0.818.51.png" width="20"> [Microsoft Edge](https://community.chocolatey.org/packages/microsoft-edge) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/microsoft-edge) |
 | Browser | <img src="https://community.chocolatey.org/content/packageimages/Firefox.88.0.1.svg" width="20"> [Firefox](https://community.chocolatey.org/packages/Firefox) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/firefox) |
 | Social | <img src="https://community.chocolatey.org/content/packageimages/skype.8.71.0.49.png" width="20"> [Skype](https://community.chocolatey.org/packages/skype) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/skype) |
