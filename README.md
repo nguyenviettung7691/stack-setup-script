@@ -34,7 +34,10 @@ Only install Essential apps.
 | Driver Download | <img src="https://community.chocolatey.org/content/packageimages/driverbooster.8.4.0.432.png" width="20"> [Driver Booster](https://community.chocolatey.org/packages/driverbooster) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/driverbooster) |
 | Screenshot | <img src="https://community.chocolatey.org/content/packageimages/greenshot.1.2.10.6.png" width="20"> [Greenshot](https://community.chocolatey.org/packages/greenshot) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/greenshot) |
 
-*Manually install these:* <img src="https://raw.githubusercontent.com/lamquangminh/EVKey/master/docs/EVKeyLogo_240.PNG" width="30">
+*Manually install these:* 
+| Type        | Package           |
+| ------------- |-------------|
+| Input | <img src="https://raw.githubusercontent.com/lamquangminh/EVKey/master/docs/EVKeyLogo_240.PNG" width="20"> [EVKey](https://github.com/lamquangminh/EVKey/releases/download/Release/EVKey.zip) |
 
 ### web-develop-dev-stack.bat
 Only install Web Develop apps & tools.
