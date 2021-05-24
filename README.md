@@ -55,7 +55,12 @@ Only install Web Develop apps & tools.
 | VM | <img src="https://community.chocolatey.org/content/packageimages/wsl2.2.0.0.20210122.png" width="20"> [WSL2](https://community.chocolatey.org/packages/wsl2) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/wsl2) |
 | VM | <img src="https://community.chocolatey.org/content/packageimages/wsl-ubuntu-2004.20.4.0.20200912.png" width="20"> [WSL Ubuntu 20.04](wsl-ubuntu-2004) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/wsl-ubuntu-2004) |
 
-*Manual install these:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png" width="30">
+*Manual install these:* 
+| Type        | Package           |
+| ------------- |-------------|
+| VM | <img src="https://store-images.s-microsoft.com/image/apps.25941.13713262882988084.dc2a6560-98e1-4dad-90b6-2122091e00a3.da902e13-c3d4-4a29-a717-f49d69d6435a?mode=scale&q=90&h=270&w=270&background=%23404040" width="20"> [GWSL](https://www.microsoft.com/en-us/p/gwsl/9nl6kd1h33v3) |
+| IDE | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png" width="20"> [Microsoft Visual Studio 2019](https://visualstudio.microsoft.com/downloads/) |
+
 
 ### recreation-stack.bat
 Only install Recreation apps.
