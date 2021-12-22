@@ -39,7 +39,7 @@ Only install Essential apps.
 | ------------- |-------------|
 | Input | <img src="https://raw.githubusercontent.com/lamquangminh/EVKey/master/docs/EVKeyLogo_240.PNG" width="20"> [EVKey](https://github.com/lamquangminh/EVKey/releases/download/Release/EVKey.zip) |
 
-### web-develop-dev-stack.bat
+### web-develop-stack.bat
 Only install Web Develop apps & tools.
 
 | Type        | Package           | Version  |
