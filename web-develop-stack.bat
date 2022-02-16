@@ -21,6 +21,7 @@ echo;
 echo * Installing Dev Tools
 choco install vscode
 choco install dbeaver
+choco install devtoys
 echo;
 
 echo * Installing Debug tools...
