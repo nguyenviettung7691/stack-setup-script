@@ -27,6 +27,7 @@ choco install teamviewer
 choco install k-litecodecpackfull
 choco install driverbooster
 choco install greenshot
+choco install devtoys
 echo;
 
 echo * Finished!
