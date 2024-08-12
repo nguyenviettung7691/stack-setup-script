@@ -1,5 +1,5 @@
 # README
-This repo contains some useful batch script files that will install all application on Windows with just one run. There are many batch script files tailored based on specific needs.
+This repo contains some useful batch script files that will install all application on Windows with just one run, useful when setting up new computer. There are many batch script files tailored based on specific needs.
 
 ## How to use
 Just run the batch script file for the stack you need, and ensure you're running as Administator.
@@ -59,8 +59,8 @@ Only install Recreation apps.
 
 | Type        | Package           | Version  |
 | ------------- |-------------| -----|
-| Music | <img src="https://community.chocolatey.org/content/packageimages/spotify.1.1.59.712.png" width="20"> [Spotify](https://community.chocolatey.org/packages/spotify) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/spotify) |
-| Game | <img src="https://community.chocolatey.org/content/packageimages/goggalaxy.2.0.37.384.png" width="20"> [GOG Galaxy](https://community.chocolatey.org/packages/goggalaxy) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/goggalaxy) |
+| Music | <img src="https://community.chocolatey.org/content/packageimages/spotify.1.2.43.420.png" width="20"> [Spotify](https://community.chocolatey.org/packages/spotify) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/spotify) |
+| Game | <img src="https://community.chocolatey.org/content/packageimages/steam.2.10.91.91221129.png" width="20"> [Steam](https://community.chocolatey.org/packages/steam) | ![Chocolatey Version](https://img.shields.io/chocolatey/v/steam) |
 
 ## Collection explain
 Each collection contains multiple stacks, so you don't need to manually run each stacks.
