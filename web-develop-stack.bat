@@ -3,39 +3,30 @@
 call pre-script.bat
 
 echo * Installing Dev Env
-choco install python
-choco install nodejs
-choco install docker-desktop
+choco install nodejs -y
+choco install dotnet-sdk -y
+choco install dotnetcore-sdk -y
 echo;
 
 echo * Installing Source control...
-choco install git --params "/GitAndUnixToolsOnPath /NoAutoCrlf /WindowsTerminal"
-choco install git-fork
+choco install git --params "/GitAndUnixToolsOnPath /NoAutoCrlf /WindowsTerminal" -y
 echo;
 
 echo * Installing Terminal tools...
-choco install microsoft-windows-terminal
-choco install putty
+choco install microsoft-windows-terminal -y
 echo;
 
 echo * Installing Dev Tools
-choco install vscode
-choco install dbeaver
-choco install devtoys
+choco install vscode -y
+choco install visualstudio2022community -y
+choco install dbeaver -y
+choco install devtoys -y
 echo;
 
 echo * Installing Debug tools...
-choco install postman
-choco install fiddler
-echo;
-
-echo * Installing WSL2 + Ubuntu instance...
-choco install wsl2
-choco install wsl-ubuntu-2004 --params "/InstallRoot:true"
+choco install postman -y
+choco install another-redis-desktop-manager -y
 echo;
 
 echo * Finished!
-echo * Manually install remaining apps:
-echo * Visual Studio 20xx Professional
-echo * GWSL
 pause

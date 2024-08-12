@@ -3,30 +3,25 @@
 call pre-script.bat
 
 echo * Installing Browsers...
-choco install googlechrome.dev
-choco install opera-developer
-choco install microsoft-edge
-choco install firefox
-
+choco install googlechrome -y
+choco install opera-gx -y
+choco install microsoft-edge -y
+choco install firefox -y
 echo;
 
 echo * Installing Social Apps...
-choco install skype
-choco install slack
-choco install microsoft-teams
-choco install zoom
+choco install skype -y
+choco install slack -y
+choco install microsoft-teams -y
 echo;
 
 echo * Installing Essential Apps...
-choco install paint.net
-choco install inkscape
-choco install figma
-choco install notepadplusplus
-choco install 7zip
-choco install teamviewer
-choco install k-litecodecpackfull
-choco install driverbooster
-choco install greenshot
+choco install paint.net -y
+choco install notepadplusplus -y
+choco install 7zip -y
+choco install k-litecodecpackfull -y
+choco install intel-dsa -y
+choco install logioptionsplus -y
 echo;
 
 echo * Finished!
